@@ -1,2 +1,6 @@
 # FearNet-Implementation
-Kemker, Ronald, and Christopher Kanan. "Fearnet: Brain-inspired model for incremental learning." arXiv preprint arXiv:1711.10563 (2017).
+Implementation of a Fearnet Variation
+
+Authors: Brady Gho, Luoxi Wu
+
+Source: Kemker, Ronald, and Christopher Kanan. "FearNet: Brain-Inspired Model for Incremental Learning." International Conference on Learning Representations. 2018.S
