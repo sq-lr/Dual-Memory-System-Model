@@ -1,4 +1,4 @@
-# FearNet-Implementation
+# Dual-Memory-System-Model
 Implementation of a Fearnet Variation
 
 Authors: Brady Gho, Luoxi Wu
